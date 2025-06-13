@@ -1,15 +1,4 @@
 This is a first file.
 add another file/folder to committtttttttttttt :/
 
-Pilot 1: "Gear up. Flaps up. Climb power set."
-Pilot 2: "Roger. Airspeed's dropping... wait, we're losing lift."
-Pilot 1: "What's going on? Nose down, add power!"
-Pilot 2: "Full throttle! Still stalling—altitude's dropping fast!"
-Pilot 1: "Pull up! Pull up!"
-Pilot 2: "We're too low—brace!"
-
-ATC: "Flight 123, confirm climb out, radar contact."
-Pilot 1: "Mayday, mayday, mayday! Flight 123, engine failure, losing altitude!"
-ATC: "Flight 123, roger, cleared to return, advise intentions."
-Pilot 2: "Unable to maintain altitude, we're going down!"
-Pilot 1: "Brace for impact!"
+Dreaming big, working hard, and coding every day! One day, I'll fly high—both in the sky and in the tech world. Let's make every commit count towards that future.
